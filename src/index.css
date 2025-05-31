@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Belleza&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Lora:ital,wght@0,400..700;1,400..700&family=Quicksand:wght@300..700&display=swap");
+@import "tailwindcss";
+@plugin 'tailwind-scrollbar';
+
+@theme {
+  --font-belleza: Belleza, arial;
+  --font-quicksand: Quicksand, arial;
+  --font-dmsans: DM Sans, arial;
+  --font-lora: Lora, sans-serif;
+  /* --breakpoint-xl: 1200px; */
+}
