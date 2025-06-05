@@ -30,7 +30,7 @@ const Carousel = () => {
         
       </figure>
 
-      <div className="flex flex-col justify-end bg-[#EDEDED] h-45 md:h-115 lg:h-100 w-full z-10 transform pb-5 px-4 absolute top-40 sm:top-43 lg:top-65">
+      <div className="flex flex-col justify-end bg-[#EDEDED] h-45 md:h-115 lg:h-98 w-full z-10 transform pb-5 px-4 absolute top-40 sm:top-43 lg:top-65">
             <section className="flex justify-between items-center w-full ">
                 <h2 className="text-[7px] md:text-xl font-dmsans font-medium">
                     STEP 1
