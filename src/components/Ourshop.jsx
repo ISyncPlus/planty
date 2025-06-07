@@ -25,7 +25,7 @@ const Ourshop = () => {
                     <img src="/src/img/fiddle-leaf.png" alt="fiddle leaf fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
                     <figcaption className="flex justify-between items-center mt-5">
                         <h3>Fiddle Leaf</h3>
-                        <p className="text-green-600">$110.99</p>
+                        <p className="text-green-600">$79.99</p>
                     </figcaption>
                 </figure>
 
@@ -42,7 +42,7 @@ const Ourshop = () => {
 
                     <figcaption className="flex justify-between items-center mt-5">
                         <h3>Strelitizia Nicolai</h3>
-                        <p className="text-green-600">$110.99</p>
+                        <p className="text-green-600">$99.99</p>
                     </figcaption>  
                </figure>
 
@@ -51,7 +51,7 @@ const Ourshop = () => {
 
                     <figcaption className="flex justify-between items-center mt-5">
                         <h3>Ficus Microcarpa</h3>
-                        <p className="text-green-600">$110.99</p>
+                        <p className="text-green-600">$89.99</p>
                     </figcaption>  
                </figure>
                 

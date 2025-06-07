@@ -4,12 +4,12 @@ import { CiCircleChevLeft } from "react-icons/ci";
 import { CiCircleChevRight } from "react-icons/ci";
 const Reviews = () => {
   return (
-    <div className="px-5 md:px-8">
+    <div className="px-5 md:px-8 mb-5 md:mb-10">
       <section className="flex flex-col items-center md:flex-row md:items-start w-full gap-3">
 
         <div className="w-[30%] flex flex-col md:block"> {/* First half */}
           <h2 className="text-center md:text-left font-dmsans font-medium text-xs md:text-[16px] mb-5">Reviews</h2>
-          <p className="font-dmsans font-light text-[8px] md:text-sm text-center md:text-left">Shop with confidence by reading customer reviews given by individuals who have used Bloomey. Excelent quality and streamlined services are both offered here.</p>
+          <p className="font-dmsans font-light text-[8px] md:text-sm text-center md:text-left">Shop with confidence by reading customer reviews given by individuals who have used Bioomey. Excelent quality and streamlined services are both offered here.</p>
 
           <section className="flex items-center gap-2 mt-3">
             <div className="flex justify-center items-center gap-1">
@@ -29,7 +29,7 @@ const Reviews = () => {
 
         <div className="w-full md:w-[50%]">  {/* Second half */}
           <p className="font-lora text-lg md:text-2xl font-medium text-center md:text-left">
-            "We adore all our friends at Bloomey,
+            "We adore all our friends at Bioomey,
             especially the beauties who have come
             to live with us! Great advice when
             needed, beautifully and safely packaged.

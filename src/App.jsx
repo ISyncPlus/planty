@@ -4,6 +4,8 @@ import Hero from './components/Hero'
 import Carousel from './components/Carousel'
 import Ourshop from './components/Ourshop'
 import Reviews from './components/Reviews'
+import Lower from './components/Lower'
+import Footer from './components/Footer'
 function App() {
 
   return (
@@ -15,7 +17,8 @@ function App() {
         <Carousel />
         <Ourshop />
         <Reviews />
-        
+        <Lower />
+        <Footer />
     </div>
   )
 }

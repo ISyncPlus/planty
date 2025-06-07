@@ -28,7 +28,7 @@ const Hero = () => {
 
                 <div className="flex justify-between items-center mt-10 md:mt-17 text-gray-500 w-47 md:w-75 lg:w-100 font-bold text-[16px] md:text-3xl lg:text-4xl">
                     <p className="font-dmsans font-extrabold ">
-                        Bloomberg
+                        Bioomberg
                     </p>
 
                     <p className="font-lora">
