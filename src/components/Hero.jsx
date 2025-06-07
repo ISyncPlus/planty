@@ -1,5 +1,5 @@
 import React from 'react'
-
+import heroImg from '../img/hero-img.png'
 const Hero = () => {
   return (
     <div className="mt-15 w-screen">
@@ -38,7 +38,7 @@ const Hero = () => {
             </div>
 
                 <figure className="transform md:-translate-x-10 lg:-mt-10 -translate-x-3">
-                    <img src="/src/img/hero-img.png" alt="Landing img" className="w-[95%] h-full md:w-sm md:h-[620px]  lg:w-140 lg:h-[780px] lg:transform lg:-translate-y-20 shadow-xl rounded-sm"/>
+                    <img src={heroImg}alt="Landing img" className="w-[95%] h-full md:w-sm md:h-[620px]  lg:w-140 lg:h-[780px] lg:transform lg:-translate-y-20 shadow-xl rounded-sm"/>
                 </figure>
 
         </section>
