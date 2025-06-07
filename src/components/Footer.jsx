@@ -5,7 +5,7 @@ import { FaInstagram } from "react-icons/fa6";
 const Footer = () => {
   return (
     <div className="flex flex-col md:flex-row justify-between items-center px-5 md:px-8 py-7 md:py-13 bg-[#F3F3F3] gap-10 md:gap-0">
-        <img src="/Planty's logo.svg" alt="planty-logo" className="transform -translate-y-1.5"/>
+        <img src="/Planty's Logo.svg" alt="planty-logo" className="transform -translate-y-1.5"/>
 
         <section className="flex flex-col md:flex-row gap-9 items-center md:gap-7 lg:gap-10 font-lora">
             <p>Help</p>
