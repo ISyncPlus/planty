@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="flex justify-between items-center backdrop-blur-md fixed w-screen p-5 z-50">
     <a href="/">
-      <img src="/public/Planty's Logo.svg" alt=" Planty Logo" />
+      <img src="/Planty's Logo.svg" alt=" Planty Logo" />
     </a>
     
 
