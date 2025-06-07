@@ -1,5 +1,8 @@
 import React from 'react'
-
+import fiddle from '../img/fiddle-leaf.png'
+import aloe from '../img/aloe-vera.png'
+import nicolai from '../img/strelitizia-nicolai.png'
+import ficus from '../img/ficus-microcarpa.png'
 const Ourshop = () => {
   return (
     <div className="md:pt-10 lg:pt-30">
@@ -22,7 +25,7 @@ const Ourshop = () => {
             <div className="flex gap-10 w-max font-quicksand">
 
                 <figure>
-                    <img src="/src/img/fiddle-leaf.png" alt="fiddle leaf fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
+                    <img src={fiddle} alt="fiddle leaf fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
                     <figcaption className="flex justify-between items-center mt-5">
                         <h3>Fiddle Leaf</h3>
                         <p className="text-green-600">$79.99</p>
@@ -30,7 +33,7 @@ const Ourshop = () => {
                 </figure>
 
                 <figure>
-                    <img src="/src/img/aloe-vera.png" alt="Aloe vera fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
+                    <img src={aloe} alt="Aloe vera fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
 
                     <figcaption className="flex justify-between items-center mt-5">
                         <h3>Aloe Vera</h3>
@@ -38,7 +41,7 @@ const Ourshop = () => {
                     </figcaption>        
                 </figure>
                <figure>
-                    <img src="/src/img/strelitizia-nicolai.png" alt="strelitizia-nicolai fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
+                    <img src={nicolai} alt="strelitizia-nicolai fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
 
                     <figcaption className="flex justify-between items-center mt-5">
                         <h3>Strelitizia Nicolai</h3>
@@ -47,7 +50,7 @@ const Ourshop = () => {
                </figure>
 
                <figure>
-                    <img src="/src/img/ficus-microcarpa.png" alt="ficus-microcarpa fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
+                    <img src={ficus} alt="ficus-microcarpa fig" className="h-[350px] md:h-[577px] w-[223px] md:w-[368px] transition-transform duration-300 hover:scale-98 rounded-sm shadow-lg" />
 
                     <figcaption className="flex justify-between items-center mt-5">
                         <h3>Ficus Microcarpa</h3>

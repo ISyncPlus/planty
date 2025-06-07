@@ -26,9 +26,9 @@ const Navbar = () => {
     </section>
 
     <section className="flex items-center gap-5 md:gap-5 md:pr-10">
-      <img src="/public/search.svg" alt="search" className="w-6 h-6" />
-      <img src="/public/contact.svg" alt="contact"  className="w-6 h-6"/>
-      <img src="/public/cart.svg" alt="cart"  className="w-6 h-6"/>
+      <img src="/search.svg" alt="search" className="w-6 h-6" />
+      <img src="/contact.svg" alt="contact"  className="w-6 h-6"/>
+      <img src="/cart.svg" alt="cart"  className="w-6 h-6"/>
       <TbMenu className="w-6 h-6 md:hidden" />
     </section>
 

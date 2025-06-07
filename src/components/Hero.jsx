@@ -55,7 +55,7 @@ const Hero = () => {
 
         <section className="flex justify-center items-center mt-5 md:mt-15 gap-5">
             <p>LEARN MORE</p>
-            <img src="/public/learn-more.svg" alt="arrow" className="w-7.5 h-7.5" />
+            <img src="/learn-more.svg" alt="arrow" className="w-7.5 h-7.5" />
         </section>
 
     </div>

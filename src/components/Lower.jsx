@@ -1,5 +1,7 @@
 import React from 'react'
-
+import firstPlant from '../img/bottom-1.png'
+import secondPlant from '../img/bottom-2.png'
+import thirdPlant from '../img/bottom-3.png'
 const Lower = () => {
   return (
     <div className="px-5 md:px-8 mb-6 md:mb-10 lg:mb-20">

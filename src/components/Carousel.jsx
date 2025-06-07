@@ -1,13 +1,15 @@
 import React, { useState } from 'react'
 import { CiCircleChevLeft } from "react-icons/ci";
 import { CiCircleChevRight } from "react-icons/ci";
+import firstSlide from '../img/slide-1.png';
+import secondSlide from '../img/slide-2-cpy.png'
 const Carousel = () => {
     const slides = [
         {
-            img: '/src/img/slide-1.png'
+            img: firstSlide
         },
         {
-            img: '/src/img/slide-2-cpy.png'
+            img: secondSlide
         }
     ];
 
