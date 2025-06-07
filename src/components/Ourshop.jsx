@@ -6,7 +6,7 @@ import ficus from '../img/ficus-microcarpa.png'
 const Ourshop = () => {
   return (
     <div className="md:pt-10 lg:pt-30">
-        <h3 className="font-dmsans font-medium text-[7px] md:text-sm lg:text-[20px] px-5 md:px-10 ">OUR SHOP</h3>
+        <h3 className="font-dmsans font-medium text-sm md:text-[17px] lg:text-[20px] px-5 md:px-10 ">OUR SHOP</h3>
 
         <section className="flex justify-between items-center gap-3 md:flex-col md:items-start md:gap-10 mt-10 w-full px-5 md:px-10">
 
@@ -16,7 +16,7 @@ const Ourshop = () => {
 
             <div className="md:w-[30%] flex  md:justify-start">
                 <button className="text-white bg-black 
-                px-6 py-3 w-[25vw] md:w-[15vw] text-sm rounded-full scale-110 transition-transform duration-300 active:scale-100 shadow-2xl hover:cursor-pointer">See All</button>
+                px-6 py-2 w-[25vw] md:w-[15vw] text-[12px] rounded-full scale-110 transition-transform duration-300 active:scale-100 shadow-2xl hover:cursor-pointer">See All</button>
             </div>
             
         </section>

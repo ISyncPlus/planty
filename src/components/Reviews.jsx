@@ -7,9 +7,9 @@ const Reviews = () => {
     <div className="px-5 md:px-8 mb-5 md:mb-10">
       <section className="flex flex-col items-center md:flex-row md:items-start w-full gap-3">
 
-        <div className="w-[30%] flex flex-col md:block"> {/* First half */}
-          <h2 className="text-center md:text-left font-dmsans font-medium text-xs md:text-[16px] mb-5">Reviews</h2>
-          <p className="font-dmsans font-light text-[8px] md:text-sm text-center md:text-left">Shop with confidence by reading customer reviews given by individuals who have used Bioomey. Excelent quality and streamlined services are both offered here.</p>
+        <div className="w-[70%] md:w-[30%] flex flex-col items-center md:block"> {/* First half */}
+          <h2 className="text-center md:text-left font-dmsans font-medium text-lg md:text-[16px] mb-5">Reviews</h2>
+          <p className="font-dmsans font-light text-[15px] md:text-sm text-center md:text-left">Shop with confidence by reading customer reviews given by individuals who have used Bioomey. Excelent quality and streamlined services are both offered here.</p>
 
           <section className="flex items-center gap-2 mt-3">
             <div className="flex justify-center items-center gap-1">
