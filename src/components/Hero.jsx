@@ -6,18 +6,18 @@ const Hero = () => {
 
         <section className="flex flex-col-reverse md:flex-row justify-center md:justify-between items-center transform -translate-x-3.5 md:translate-x-0">
             <div className="max-h-dvh md:w-[55%]">
-                <h1 className="font-belleza text-2xl md:text-[55px] lg:text-[80px] md:font-[500] pt-5 md:pt-15 z-10 text-wrap w-full md:w-90 lg:w-140 md:leading-20 text-center md:text-left">Best house plants varieties</h1>
+                <h1 className="font-belleza text-3xl md:text-[55px] lg:text-[80px] md:font-[500] pt-5 md:pt-15 z-10 text-wrap w-full md:w-90 lg:w-140 md:leading-20 text-center md:text-left">Best house plants varieties</h1>
 
                 <section className="flex flex-col-reverse md:flex-col items-center md:items-start">
-                    <button className=" text-white w-[40vw] md:w-[40vw] px-10 py-2 md:px-4.5 md:py-3.5 mt-5 md:mt-10 rounded-full bg-black font-dmsans text-xs md:text-lg hover:cursor-pointer transition-all duration-400 hover:opacity-90 hover:scale-95 active:scale-95 shadow-2xl">Shop now</button>
+                    <button className=" text-white w-[60vw] md:w-[40vw] px-10 py-2 md:px-4.5 md:py-3.5 mt-5 md:mt-10 rounded-full bg-black font-dmsans text-sm md:text-lg hover:cursor-pointer transition-all duration-400 hover:opacity-90 hover:scale-95 active:scale-95 shadow-2xl">Shop now</button>
 
                     <article className="flex flex-col items-center md:items-start gap-5 md:gap-10 mt-3 md:mt-15">
 
-                        <p className="font-[500] font-quicksand text-sm md:text-2xl lg:text-3xl w-45 md:w-90 lg:w-100 md:pl-3 text-center md:text-left">
+                        <p className="font-[500] font-quicksand text-lg md:text-2xl lg:text-3xl md:w-90 lg:w-100 md:pl-3 text-center md:text-left">
                             Beautiful living greenery for homes and offices
                         </p>
 
-                        <p className="font-[200] font-dmsans text-[9px] md:text-lg pl-3 w-50 md:w-100 text-center md:text-left">
+                        <p className="font-[200] font-dmsans text-sm md:text-lg pl-3 md:w-100 text-center md:text-left">
                             We've been mentioned in the press
                         </p>
 
