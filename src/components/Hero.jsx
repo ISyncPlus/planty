@@ -13,7 +13,7 @@ const Hero = () => {
 
                     <article className="flex flex-col items-center md:items-start gap-5 md:gap-10 mt-3 md:mt-15 px-5">
 
-                        <p className="font-[500] font-quicksand text-lg md:text-xl lg:text-3xl md:w-90 lg:w-100 md:pl-3 text-center md:text-left">
+                        <p className="font-[500] font-quicksand text-[16px] md:text-xl lg:text-3xl md:w-90 lg:w-100 md:pl-3 text-center md:text-left">
                             Beautiful living greenery for homes and offices
                         </p>
 
@@ -26,9 +26,9 @@ const Hero = () => {
                 </section>
                 
 
-                <div className="flex justify-between md:gap-0  md:justify-between items-center mt-10 md:mt-17 text-gray-500 md:w-75 lg:w-100 font-bold text-[16px] md:text-3xl lg:text-4xl px-5 md:px-0">
+                <div className="flex justify-between md:gap-0  md:justify-between items-center mt-10 md:mt-17 text-gray-500 md:w-75 lg:w-100 font-bold text-[16px] md:text-3xl lg:text-4xl px-7 md:px-0">
                     <p className="font-dmsans font-extrabold ">
-                        Bioomberg
+                        Bloomberg
                     </p>
 
                     <p className="font-lora">
