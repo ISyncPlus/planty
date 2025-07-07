@@ -13,7 +13,7 @@ const Hero = () => {
 
                     <article className="flex flex-col items-center md:items-start gap-5 md:gap-10 mt-3 md:mt-15">
 
-                        <p className="font-[500] font-quicksand text-lg md:text-2xl lg:text-3xl md:w-90 lg:w-100 md:pl-3 text-center md:text-left">
+                        <p className="font-[500] font-quicksand text-lg md:text-xl lg:text-3xl md:w-90 lg:w-100 md:pl-3 text-center md:text-left">
                             Beautiful living greenery for homes and offices
                         </p>
 
