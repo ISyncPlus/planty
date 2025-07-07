@@ -11,7 +11,7 @@ const Hero = () => {
                 <section className="flex flex-col-reverse md:flex-col items-center md:items-start">
                     <button className=" text-white w-[60vw] md:w-[40vw] px-10 py-2 md:px-4.5 md:py-3.5 mt-5 md:mt-10 rounded-full bg-black font-dmsans text-sm md:text-lg hover:cursor-pointer transition-all duration-400 hover:opacity-90 hover:scale-95 active:scale-95 shadow-2xl">Shop now</button>
 
-                    <article className="flex flex-col items-center md:items-start gap-5 md:gap-10 mt-3 md:mt-15">
+                    <article className="flex flex-col items-center md:items-start gap-5 md:gap-10 mt-3 md:mt-15 px-5">
 
                         <p className="font-[500] font-quicksand text-lg md:text-xl lg:text-3xl md:w-90 lg:w-100 md:pl-3 text-center md:text-left">
                             Beautiful living greenery for homes and offices
@@ -26,7 +26,7 @@ const Hero = () => {
                 </section>
                 
 
-                <div className="flex justify-between md:gap-0  md:justify-between items-center mt-10 md:mt-17 text-gray-500 md:w-75 lg:w-100 font-bold text-[16px] md:text-3xl lg:text-4xl">
+                <div className="flex justify-between md:gap-0  md:justify-between items-center mt-10 md:mt-17 text-gray-500 md:w-75 lg:w-100 font-bold text-[16px] md:text-3xl lg:text-4xl px-5 md:px-0">
                     <p className="font-dmsans font-extrabold ">
                         Bioomberg
                     </p>
