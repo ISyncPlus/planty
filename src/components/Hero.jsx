@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="mt-15 w-screen">
 
-        <section className="flex flex-col-reverse md:flex-row justify-center md:justify-between items-center transform -translate-x-3.5 md:translate-x-0">
+        <section className="flex flex-col-reverse md:flex-row justify-center md:justify-between items-center transform -translate-x-3.5 md:translate-x-0 mt-20">
             <div className="max-h-dvh md:w-[55%]">
                 <h1 className="font-belleza text-3xl md:text-[55px] lg:text-[80px] md:font-[500] pt-5 md:pt-15 z-10 text-wrap w-full md:w-90 lg:w-140 md:leading-20 text-center md:text-left">Best house plants varieties</h1>
 
