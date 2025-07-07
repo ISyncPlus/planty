@@ -28,7 +28,7 @@ const Carousel = () => {
     }
   return (
     <div className="mt-9 relative mb-20">
-      <figure style={{backgroundImage: `url(${slides[currentIndex].img})`}}  className="max-w-[90%] mx-auto h-72 md:h-135 rounded-sm bg-center bg-cover origin-left ease-in-out duration-200 z-30 relative">
+      <figure style={{backgroundImage: `url(${slides[currentIndex].img})`}}  className="max-w-[90%] mx-auto h-72 md:h-135 rounded-xl bg-center bg-cover origin-left ease-in-out duration-200 z-30 relative">
         
       </figure>
 
